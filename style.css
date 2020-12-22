@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#Inspiraton1 {
+    width: 100px;
+    height: 800px;
+    background-color: cornsilk;
+}
+
+#Inspiration2 {
+    width: 100px;
+    height: 800px;
+    background-color: cyan;
+}
+
+
+}
+
+img {
+    transition: transform .2s;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.Line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
